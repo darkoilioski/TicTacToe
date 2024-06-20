@@ -1,4 +1,4 @@
-namespace x_O
+namespace TicTac
 {
     internal static class Program
     {

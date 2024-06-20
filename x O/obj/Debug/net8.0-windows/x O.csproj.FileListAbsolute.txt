@@ -1,0 +1,17 @@
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\bin\Debug\net8.0-windows\x O.exe
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\bin\Debug\net8.0-windows\x O.deps.json
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\bin\Debug\net8.0-windows\x O.runtimeconfig.json
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\bin\Debug\net8.0-windows\x O.dll
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\bin\Debug\net8.0-windows\x O.pdb
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\obj\Debug\net8.0-windows\x_O.Form1.resources
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\obj\Debug\net8.0-windows\x O.csproj.GenerateResource.cache
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\obj\Debug\net8.0-windows\x O.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\obj\Debug\net8.0-windows\x O.AssemblyInfoInputs.cache
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\obj\Debug\net8.0-windows\x O.AssemblyInfo.cs
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\obj\Debug\net8.0-windows\x O.csproj.CoreCompileInputs.cache
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\obj\Debug\net8.0-windows\x O.sourcelink.json
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\obj\Debug\net8.0-windows\x O.dll
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\obj\Debug\net8.0-windows\refint\x O.dll
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\obj\Debug\net8.0-windows\x O.pdb
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\obj\Debug\net8.0-windows\x O.genruntimeconfig.cache
+D:\Users\38978\Desktop\momentalni predmeti\Vizuelno\VP\Proekt VP\x O\x O\obj\Debug\net8.0-windows\ref\x O.dll

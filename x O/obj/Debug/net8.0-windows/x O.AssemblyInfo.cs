@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TicTac")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("x O")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9c98665bb50ce7a672cd8cd42a2a702baaa6288")]
-[assembly: System.Reflection.AssemblyProductAttribute("TicTac")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TicTac")]
+[assembly: System.Reflection.AssemblyProductAttribute("x O")]
+[assembly: System.Reflection.AssemblyTitleAttribute("x O")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
